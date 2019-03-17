@@ -10,8 +10,7 @@ using namespace std;
 
 int main()
 {
-	float x, y;
-	float answer;
+	float x, y, answer;
 
 	cin >> x;
 	cin >> y;
